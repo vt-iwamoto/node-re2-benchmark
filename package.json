@@ -1,0 +1,15 @@
+{
+  "name": "node-re2-benchmark",
+  "version": "1.0.0",
+  "description": "A benchmark script for node-re2",
+  "main": "benchmark.js",
+  "dependencies": {
+    "re2": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "private": "true"
+}
