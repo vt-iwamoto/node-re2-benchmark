@@ -1,6 +1,6 @@
 # node-re2-benchmark
 
-A benchmark script for node-re2
+A benchmark script for [node-re2](https://github.com/uhop/node-re2)
 
 ## Usage
 
